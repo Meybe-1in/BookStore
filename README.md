@@ -4,7 +4,7 @@ This is a simple BookStore web application built using **Spring Boot** for backe
 
 ## Demo
 
-[![Watch the video]https://youtu.be/367Gy9VvPtY
+[![Watch the video](https://img.youtube.com/vi/367Gy9VvPtY/hqdefault.jpg)](https://www.youtube.com/watch?v=367Gy9VvPtY)
 
 
 ## Features

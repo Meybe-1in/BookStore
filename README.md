@@ -2,6 +2,11 @@
 
 This is a simple BookStore web application built using **Spring Boot** for backend services and **Thymeleaf** for rendering views. The application allows users to perform basic operations related to book management, including adding, viewing, editing, and deleting books.
 
+## Demo
+
+[![Watch the video]https://youtu.be/367Gy9VvPtY
+
+
 ## Features
 
 - Register new books with name, author, and price.
